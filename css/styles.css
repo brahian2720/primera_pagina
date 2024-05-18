@@ -1,0 +1,41 @@
+.cont {
+    background-color: black;
+}
+
+h1 {text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+h2 {text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+
+#titulo_2{
+    text-align: end; 
+}
+
+.color {
+    color: red
+}
+
+.contenedor {
+    background-color: rgba(255, 0, 0, 0.596);
+    border: solid;
+    padding-top: 20px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+#fantasmita{ 
+    width: 1000px;
+    /* height: 5 t00px; */
+}
